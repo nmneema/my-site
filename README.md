@@ -1,1 +1,12 @@
-# my-site
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Neema's Website</title>
+</head>
+<body>
+
+<h1>Hello I'm Neema</h1>
+<p>This is my first website hosted using GitHub Pages.</p>
+
+</body>
+</html>
