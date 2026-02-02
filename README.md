@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hello....</h1>
-<p>This is my first website hosted using GitHub Pages.</p>
+<p> first website hosted using GitHub Pages.</p>
 
 </body>
 </html>
